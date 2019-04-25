@@ -27,3 +27,4 @@ while pc != user:
         user = int(input('Tente novamente: '))
         contador += 1
 print('Você acertou!!! E teve que tentar {} vez(es).'.format(contador))
+print('fim')
