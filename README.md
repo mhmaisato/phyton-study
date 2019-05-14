@@ -1,4 +1,4 @@
 # python-study
 Some Python code I learned.
 
-Here are exercices from cursoemvideo.com, Python's course that I have done.
+Here are exercices from cursoemvideo.com, Python's course that I'm enrolled.
