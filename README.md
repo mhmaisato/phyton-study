@@ -1,4 +1,4 @@
 # python-study
-Some Python code I learned.
+Some Python codes I learned.
 
-Here are exercices from cursoemvideo.com, Python's course that I'm enrolled.
+Put in place some exercices from cursoemvideo.com.

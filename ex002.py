@@ -4,4 +4,3 @@
 
 nome = input('digite o seu nome: ')
 print('Seja bem vindo, {}!'.format(nome))
-
